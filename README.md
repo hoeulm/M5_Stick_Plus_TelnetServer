@@ -7,14 +7,15 @@ The following Commands are already supported:
 <li><b>led</b> on | off | tog</b></li>
 <li><b>uptime</b></li>
 <li><b>clear</b></li>
-<li>bat</b> Show Status of the Akku</li>
-<li>rot</b> Rotate the Display</li>
-<li>sht</b> Show Temperature and Humidity from external ENVII HAT</li>
-<li>bmp</b> Show Temperature and Pressure from external ENVII HAT</li>
-<li>wget</b> Download a File from the Internet and store it in LITTEFS</li>
-<li>img</b> Show a 565-Bitmap on the LCD</li>
-<li>i2c</b> Scan the I2C-Bus for Devices</li>
-<li>mkdir</b> Create a Directory on LITTEFS</li>
+<li><b>bat</b> Show Status of the Akku</li>
+<li><b>rot</b> Rotate the Display</li>
+<li><b>sht</b> Show Temperature and Humidity from external ENVII HAT</li>
+<li><b>bmp</b> Show Temperature and Pressure from external ENVII HAT</li>
+<li><b>wget</b> Download a File from the Internet and store it in LITTEFS</li>
+<li><b>img</b> Show a 565-Bitmap on the LCD</li>
+<li><b>i2c</b> Scan the I2C-Bus for Devices</li>
+<li><br>mkdir</b> Create a Directory on LITTEFS</li>
 <li><b>..</b></li>
 </ul>
+FAR away from a Operating System on M5-Stick, but a nice begin..
 
